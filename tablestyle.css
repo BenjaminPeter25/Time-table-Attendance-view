@@ -1,0 +1,16 @@
+.trp table, th,td
+	{
+		border: 2px solid red;         
+		border-collapse: collapse;
+		opacity: 1;
+		margin-top: 20px;                  
+	}
+	body
+	{
+		background: url(149543429616.jpg);
+background-size: cover;
+	}
+	.trp
+	{
+		
+	}

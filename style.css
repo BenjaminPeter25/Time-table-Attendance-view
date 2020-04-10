@@ -1,0 +1,109 @@
+body
+{
+background: url(149543429616.jpg);
+background-size: cover;
+
+
+}
+.loginbox
+{
+	
+	width: 320px;
+    height: 500px;
+    
+    box-sizing: border-box;
+    background-color: white;
+    opacity: 0.6;
+    
+    transform: translate(600px, 10px);
+
+}
+h1{
+	text-align: center;
+	color: black;
+	padding-top: 50px;
+}
+.loginbox input[type="button"]
+{
+	 border: none;
+	 outline: none;
+    border-radius: 20px;
+    width: 50%;
+    height: 40px;
+    margin-top: 20px;
+    font-size: 15px;
+    color:#000000;
+    background-color: #C0C0C0;
+   
+}
+.loginbox input[type="text"], input[type="password"]
+{
+	background: transparent;
+	border: none;
+	 outline: none;
+	  border-bottom: 1px solid black;
+
+}
+.loginbox p
+{
+	text-align: center;
+	color: red;
+	font-family: sans-serif;
+
+}
+.loginbox input[type="button"]:hover
+{
+    
+    color: red;
+
+}
+.loginbox a
+{
+	color: black;
+	text-decoration: none;
+	padding: 10px;
+	font-size: 12px;
+}
+.loginbox a:hover
+{
+
+    color: red;
+}
+.loginbox img[src="android_icon.png"]
+{
+	
+	background-color: grey;
+	height: 50px;
+	
+}
+
+.loginbox img[src="apple_icon.png"]
+{
+    background-color: grey;
+	height: 50px;
+
+}
+.row {
+  display: flex;
+  padding: 5px;
+  float: left;
+  margin-left: 100px;
+
+}
+
+.column {
+  flex: 50%;
+  margin-left: 5px;
+
+}
+.tsp 
+{
+	
+	color:red;
+	
+	background-color: transparent;
+
+}
+
+
+
